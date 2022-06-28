@@ -1,8 +1,8 @@
-@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;400;700;800&display=swap');
+@import url('https: //fonts.googleapis.com/css2?family=Manrope:wght@200;400;700;800&display=swap');
 
 :root {
-  --primary-color: #abb832;
-  --primary-color-dark: #0F4C75;
+  --primary-color: #2E4A07;
+  --primary-color-dark: #3B7D42;
   --accent-color: #FFF8F0;
 }
 
@@ -102,6 +102,13 @@ h1 {
   color: var(--accent-color);
   text-transform: uppercase;
 }
+p {
+  margin: 100px 0 0 0;
+  font-size: 30px;
+  font-weight: 500;
+  color: var(--accent-color);
+  text-transform: uppercase;
+}
 
 .socials {
   list-style: none;
@@ -141,7 +148,7 @@ h1 {
 }
 
 .project-list li {
-  margin-bottom: 30px;
+  margin-bottom: 3px;
 }
 
 .project-link {
