@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;400;700;800&display=swap');
 
 :root {
-  --primary-color: #3282B8;
-  --primary-color-dark: #0F4C75;
+  --primary-color: #559205;
+  --primary-color-dark: #3B7D42;
   --accent-color: #FFF8F0;
 }
 
@@ -103,8 +103,8 @@ h1 {
   text-transform: uppercase;
 }
 p {
-  margin: 100px 0 0 0;
-  font-size: 30px;
+  margin: 10px 0 0 0;
+  font-size: 25px;
   font-weight: 500;
   color: var(--accent-color);
   text-transform: uppercase;
